@@ -6,5 +6,5 @@ title: Welcome to my blog!
 
 *Blogging about PM stuff*
 
-## Post 1
-
+> [!Note]
+> This is a test site/blog!
